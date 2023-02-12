@@ -24,7 +24,7 @@ Each piece has its own unique movements, following the same rules as classical c
 In addition to the standard rules of chess, Galactic Chess includes several special rules to enhance gameplay. 
 
 ### Wormhole
-`Wormhole` is an unconventional movement rule that allows a player to move their piece to any vulnerable square on the board. `Star Commander` can't use a Wormhole.
+`Wormhole` is an unconventional movement rule that allows a player to move their special pieces to any square on the board. `Star Commander` can't use a Wormhole to escape a `Starship in Peril` situation. To prevent chaos using a wormhole can't result in a capture or a `Starship in Peril`.
 
 ### Gravity Control
 `Gravity Control` is the ability for a player to control an opponent's piece by capturing it. A piece that is under Gravity Control can be used to capture other pieces, but only one piece can be under control at a time. Using Gravity Control results in a turn skip, but the opponent cannot recapture the piece this turn or it will result in an `Imperial Offering`. 
