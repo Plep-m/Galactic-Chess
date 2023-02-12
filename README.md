@@ -3,6 +3,12 @@
 ## Introduction
 Galactic Chess is a variant of the classic chess game, set in a space-themed universe where players control a fleet of starships. The aim of the game is to capture the opponent's `Star Commander`, while protecting one's own. 
 
+## Inspiration
+
+Galactic Chess was inspired by a fascinating game of chess played by the AI ChatGPT against Stockfish, as presented by Gotham Chess in this [video](https://www.youtube.com/watch?v=rSCNW1OCk_M&ab_channel=GothamChess). The game was filled with controversial moves and ultimately ended with ChatGPT emerging victorious against Stockfish.
+
+This video sparked the imagination and led to the creation of Galactic Chess, a game that incorporates innovative new rules and abilities that allow players to experience chess in a whole new way.
+
 ## Pieces and Movement
 The pieces in Galactic Chess have been renamed to fit the theme: 
 - Star Commander (King)
